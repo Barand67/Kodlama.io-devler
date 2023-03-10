@@ -12,5 +12,5 @@ a=["elma","armut","muz"] # list
 #2)
 Tamamlama yüzdesine int diyebiliriz
 1.Gün ders kımına list diyebiliriz
-Tamalama veya tamamlamama drumuna öre True veya False diyebiliriz
+Tamamlama veya tamamlamama drumuna öre True veya False diyebiliriz
  
